@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[The-real-Thomas-A-Anderson.github.io](The-real-Thomas-A-Anderson.github.io)
+https://the-real-thomas-a-anderson.github.io
   
 **The-real-Thomas-A-Anderson/The-real-Thomas-A-Anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
